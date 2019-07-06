@@ -1,1 +1,224 @@
 // Here you can add other styles
+/* add new*/
+@font-face {
+  font-family: "Sailec Regular";
+  src: url("../fonts/sailec/Sailec Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: "Sailec Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #23282c;
+  text-align: left;
+  background-color: #e4e5e6;
+}
+
+.dropdowncontainer {
+  margin-bottom: 1em !important;
+}
+
+.col-sm-10-firstrow {
+  padding-right: 0px !important;
+}
+
+.col-sm-2-firstrow {
+  padding-left: 0px !important;
+}
+
+.btn-secondary {
+  color: #23282c;
+  background-color: white !important;
+  border-color: #c8ced3;
+  text-align: left !important;
+
+  padding: 1em !important;
+}
+
+i.fa.fa-search:before {
+  content: '';
+  color: #002eff;
+}
+
+i.fa.fa-search {
+  font-size: 2em;
+}
+
+.fa-icon {
+  display: inline-block;
+  padding-top: 0.9em;
+  margin-left: -1em;
+}
+
+.avatar-header {
+  display: flex;
+  padding: 1em;
+}
+
+.avatar-img {
+  display: inline-block;
+  padding-bottom: 1em;
+}
+
+.img-avatar,
+.avatar>img,
+.img-circle {
+  margin-right: 1.5em;
+}
+
+.avatar-details {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.av-d {
+  padding-left: 2em;
+}
+
+.p-2 {
+
+  /* padding: 0.5rem !important; */
+}
+
+.p-2 {
+  background-color: white !important;
+  width: 15em !important;
+}
+
+.ptitle {
+  margin-bottom: 0px !important;
+}
+
+.cui-magnifying-glass {
+  font-size: 2em;
+  color: #002eff;
+}
+
+.p2third {
+  width: 8em !important;
+}
+
+.p2fourth {
+  width: 10em !important;
+}
+
+.p2secondavatar {
+  width: 5em !important;
+}
+
+.mlautop2second {
+  margin-left: 0px !important;
+}
+
+.ptitlemlautop2second,
+.pbadgemlautop2second {
+  display: inline-block;
+  margin-top: 0.6em !important;
+}
+
+#mlhours {
+  margin-right: 4em;
+}
+
+.mlautop2second {}
+
+.card-header {
+  background-color: white !important;
+}
+
+.ptitleml {
+  margin-right: 3em;
+}
+
+.badge-success {
+  padding: 1em !important;
+  background-color: #00a63a !important;
+}
+
+.badge-primary {
+  padding: 0.5em !important;
+}
+
+.td-translating {
+  outline: thin #002eff solid;
+  background: #002eff;
+  color: white;
+}
+
+.td-edited {
+  outline: thin #00a63a solid;
+  background: #00a63a;
+  color: white;
+}
+
+.tr-danger {
+  outline: thin salmon solid;
+  background: salmon;
+}
+
+.tr-hurry {
+  outline: thin #FFE980 solid;
+  background: #FFE980;
+}
+
+.ptitlesecond {
+  margin-top: 0.7em !important;
+}
+
+.ptitleml,
+.badgesecond {
+  display: inline-block;
+}
+
+i.fa-align-justify {
+  margin-top: 0.1em !important;
+  color: #002eff;
+}
+
+.btn-secondary {
+  width: 13em !important;
+}
+
+.p2second {}
+
+
+.page-item.active .page-link {
+  z-index: 1;
+  color: #fff !important;
+  /* background-color: #20a8d8; */
+  background-color: #002eff !important;
+  border-color: #20a8d8;
+}
+
+
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  /* color: #20a8d8; */
+  color: #002eff !important;
+  background-color: #fff;
+  border: 1px solid #c8ced3;
+}
+
+.badge-primary {
+  color: #fff;
+  /* background-color: #20a8d8; */
+  background-color: #002eff !important;
+}
+
+.sidebar .nav-link:hover {
+  color: #fff;
+  /* background: #20a8d8; */
+  background: #002eff !important;
+}
+
+
+/*  */
